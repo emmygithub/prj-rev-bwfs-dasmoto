@@ -1,3 +1,3 @@
 # prj-rev-bwfs-dasmoto
 
-Making art project is fun.This demonstrate it
+Still working on this art project about Dasmoto coffee shop 
